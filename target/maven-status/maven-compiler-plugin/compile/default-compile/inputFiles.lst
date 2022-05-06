@@ -1,0 +1,16 @@
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/exception/handler/RestTemplateResponseErrorHandler.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/interfaces/CategoryENUM.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/exception/NotFoundException.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/service/ProductService.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/dto/SellerDTO.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/exception/ProductNotFoundException.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/controller/SellerController.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/exception/handler/MyExceptionHandler.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/exception/SellerAlreadyExistsException.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/controller/ProductController.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/dto/SellerResponseDTO.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/repository/ProductRepository.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/entity/Product.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/ProductsApplication.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/service/SellerAPIService.java
+/Users/aveziane/Documents/BootCamp/Desafios/projeto-integrador/pi-ml-products/src/main/java/com/piml/products/dto/ProductDTO.java
